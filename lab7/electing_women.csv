@@ -1,0 +1,1735 @@
+unique_id,treat,prop_sd_fem2014,sd_onefem2014,county,pc_male
+27215,supply,0,0,Grand,1
+27386,control,0,0,Grand,0
+27496,control,1,1,Grand,1
+16202,demand,1,1,Daggett,1
+16241,control,.5,1,Daggett,1
+26601,control,0,0,Emery,1
+27551,demand,0,0,Grand,1
+67237,control,0,0,San Juan,1
+69699,supply,0,0,Sevier,1
+86949,supply,0,0,Wasatch,1
+26617,both,0,0,Emery,1
+27579,both,1,1,Grand,0
+67263,demand,0,0,San Juan,1
+69702,control,0,0,Sevier,0
+86996,control,0,0,Wasatch,1
+69718,control,0,0,Sevier,1
+69760,supply,.5,1,Sevier,1
+87096,control,1,1,Wasatch,1
+69940,demand,0,0,Sevier,1
+87106,supply,.33333334,1,Wasatch,1
+15065,demand,0,0,Carbon,1
+69964,control,0,0,Sevier,0
+15077,control,1,1,Carbon,0
+69993,demand,1,1,Sevier,0
+15096,supply,0,0,Carbon,1
+67271,supply,0,0,San Juan,1
+15134,supply,1,1,Carbon,1
+67318,demand,0,0,San Juan,0
+70081,demand,0,0,Sevier,1
+15168,both,0,0,Carbon,1
+67325,control,0,0,San Juan,1
+26574,control,1,1,Emery,1
+31125,supply,0,0,Piute,1
+31295,demand,0,0,Rich,1
+69385,supply,0,0,Sevier,1
+69804,supply,0,0,Sevier,1
+69815,supply,0,0,Sevier,1
+87199,control,0,0,Wasatch,1
+15293,both,0,0,Carbon,1
+87229,both,1,1,Wasatch,1
+69901,supply,0,0,Sevier,1
+87238,demand,0,0,Wasatch,0
+69929,control,0,0,Sevier,1
+87240,supply,1,1,Wasatch,1
+87272,demand,0,0,Wasatch,1
+15303,both,0,0,Carbon,1
+15342,demand,0,0,Carbon,1
+26664,both,0,0,Emery,0
+30846,supply,.33333334,1,Morgan,1
+69407,supply,.5,1,Sevier,0
+15451,control,0,0,Carbon,1
+87326,both,0,0,Wasatch,0
+15530,demand,1,1,Carbon,0
+87374,control,.5,1,Wasatch,1
+15553,control,1,1,Carbon,1
+87414,both,1,1,Wasatch,1
+15569,both,0,0,Carbon,1
+87446,supply,0,0,Wasatch,1
+15697,both,0,0,Carbon,0
+87480,both,1,1,Wasatch,1
+15856,supply,0,0,Carbon,1
+15943,both,.5,1,Carbon,0
+15989,supply,1,1,Carbon,0
+26672,supply,0,0,Emery,0
+30912,supply,0,0,Morgan,1
+31224,supply,1,1,Piute,1
+31490,control,0,0,Rich,0
+16107,both,1,1,Carbon,1
+87569,both,1,1,Wasatch,1
+87595,control,0,0,Wasatch,1
+87609,both,0,0,Wasatch,1
+87621,both,.5,1,Wasatch,1
+26722,demand,0,0,Emery,1
+30954,control,1,1,Morgan,1
+31248,control,.5,1,Piute,1
+31501,demand,0,0,Rich,1
+69482,supply,0,0,Sevier,1
+87697,control,0,0,Wasatch,1
+87744,control,0,0,Wasatch,1
+87802,both,0,0,Wasatch,1
+87825,supply,0,0,Wasatch,1
+87841,supply,0,0,Wasatch,1
+87887,demand,0,0,Wasatch,0
+26733,control,0,0,Emery,1
+30977,both,.5,1,Morgan,1
+31538,demand,0,0,Rich,1
+67356,supply,0,0,San Juan,0
+26746,control,0,0,Emery,0
+30983,demand,0,0,Morgan,1
+67547,demand,1,1,San Juan,1
+16148,demand,0,0,Carbon,1
+26767,supply,0,0,Emery,1
+31016,supply,0,0,Morgan,1
+69513,both,0,0,Sevier,1
+26779,demand,.5,1,Emery,1
+67654,demand,.33333334,1,San Juan,1
+69623,demand,0,0,Sevier,1
+26808,both,0,0,Emery,0
+67665,control,0,0,San Juan,1
+69647,both,0,0,Sevier,1
+30281,supply,.5,1,Millard,1
+74039,supply,.5,1,Uintah,1
+75064,both,.25,1,Utah,1
+75119,demand,.25,1,Utah,1
+75208,control,0,0,Utah,1
+75212,supply,0,0,Utah,1
+75283,demand,.2,1,Utah,1
+75502,supply,.25,1,Utah,1
+75573,both,0,0,Utah,1
+75628,supply,0,0,Utah,1
+75692,supply,.33333334,1,Utah,1
+75848,both,.66666669,1,Utah,1
+75882,control,0,0,Utah,1
+75905,control,0,0,Utah,1
+29826,both,.5,1,Kane,1
+76063,both,.5,1,Utah,0
+76085,supply,0,0,Utah,1
+76139,control,.5,1,Utah,1
+76141,both,.5,1,Utah,1
+76156,demand,.25,1,Utah,1
+25383,demand,1,1,Duchesne,1
+12338,both,1,1,Cache,1
+26831,both,0,0,Garfield,1
+25438,both,0,0,Duchesne,0
+87894,both,0,0,Washington,0
+74158,both,0,0,Uintah,1
+74115,both,.33333334,1,Uintah,1
+67696,supply,0,0,Sanpete,0
+25493,supply,0,0,Duchesne,0
+10401,demand,.5,1,Box Elder,1
+10472,control,.33333334,1,Box Elder,1
+10527,both,0,0,Box Elder,1
+10618,control,1,1,Box Elder,1
+10775,control,0,0,Box Elder,1
+10821,control,0,0,Box Elder,0
+10832,control,0,0,Box Elder,1
+10850,supply,0,0,Box Elder,1
+10866,demand,0,0,Box Elder,0
+10878,control,0,0,Box Elder,1
+10911,supply,.66666669,1,Box Elder,1
+10924,control,0,0,Box Elder,1
+10948,supply,.25,1,Box Elder,1
+10969,demand,0,0,Box Elder,1
+10995,supply,0,0,Box Elder,1
+11004,demand,0,0,Box Elder,1
+11015,both,0,0,Box Elder,1
+12372,demand,0,0,Cache,1
+27774,both,0,0,Iron,1
+74162,supply,0,0,Uintah,1
+31796,demand,.33333334,1,Salt Lake,1
+31823,both,0,0,Salt Lake,0
+31909,control,.66666669,1,Salt Lake,0
+31997,demand,0,0,Salt Lake,0
+16434,both,.33333334,1,Davis,1
+16452,control,0,0,Davis,1
+16468,both,1,1,Davis,1
+16622,supply,0,0,Davis,1
+16701,both,.33333334,1,Davis,1
+16729,control,.5,1,Davis,1
+16755,supply,0,0,Davis,1
+16803,supply,.5,1,Davis,1
+16819,demand,0,0,Davis,1
+16900,both,.5,1,Davis,1
+16928,supply,.33333334,1,Davis,1
+16959,demand,0,0,Davis,0
+16992,control,0,0,Davis,1
+17028,control,1,1,Davis,0
+17085,both,.33333334,1,Davis,1
+17125,supply,.66666669,1,Davis,0
+17139,both,.5,1,Davis,1
+17187,both,0,0,Davis,1
+26849,supply,0,0,Garfield,1
+17224,demand,0,0,Davis,1
+17248,control,.33333334,1,Davis,0
+17346,supply,.5,1,Davis,1
+17380,both,1,1,Davis,1
+17398,demand,.33333334,1,Davis,1
+17461,demand,.33333334,1,Davis,1
+17488,supply,.5,1,Davis,0
+17564,control,0,0,Davis,1
+17572,both,.5,1,Davis,1
+17586,both,0,0,Davis,1
+26910,demand,0,0,Garfield,1
+11027,both,1,1,Box Elder,1
+32011,both,0,0,Salt Lake,1
+27788,supply,0,0,Iron,1
+71014,demand,0,0,Summit,1
+10061,both,1,1,Beaver,0
+10128,supply,0,0,Beaver,1
+10144,both,0,0,Beaver,1
+10163,demand,0,0,Beaver,1
+29842,supply,1,1,Kane,0
+32133,both,1,1,Salt Lake,0
+27885,supply,0,0,Iron,1
+27902,both,0,0,Iron,1
+27960,both,0,0,Iron,1
+27973,both,0,0,Iron,1
+27994,control,0,0,Iron,1
+28064,demand,.5,1,Iron,1
+28086,both,.5,1,Iron,0
+28188,both,1,1,Iron,1
+28190,both,.5,1,Iron,0
+28220,supply,.33333334,1,Iron,1
+28296,demand,.25,1,Iron,1
+28323,supply,.33333334,1,Iron,1
+28347,control,0,0,Iron,1
+28352,supply,0,0,Iron,1
+28415,control,1,1,Iron,1
+28443,control,0,0,Iron,1
+28458,demand,0,0,Iron,1
+28502,control,0,0,Iron,1
+28628,control,0,0,Iron,1
+28637,demand,.33333334,1,Iron,1
+28659,demand,.33333334,1,Iron,1
+28685,supply,0,0,Iron,1
+28766,demand,1,1,Iron,1
+28830,control,0,0,Iron,1
+28922,control,0,0,Iron,0
+17720,both,0,0,Davis,0
+17754,demand,0,0,Davis,1
+17765,supply,.25,1,Davis,1
+17783,demand,.66666669,1,Davis,1
+17810,control,.33333334,1,Davis,1
+17899,supply,.5,1,Davis,1
+17997,demand,.33333334,1,Davis,0
+18005,control,1,1,Davis,1
+18108,supply,.33333334,1,Davis,0
+18131,supply,0,0,Davis,1
+18154,control,0,0,Davis,1
+67974,supply,0,0,Sanpete,1
+18165,both,.33333334,1,Davis,1
+18177,both,0,0,Davis,1
+18274,control,.5,1,Davis,1
+18344,demand,0,0,Davis,1
+18359,demand,0,0,Davis,1
+18407,supply,0,0,Davis,1
+18424,demand,1,1,Davis,0
+18448,both,.5,1,Davis,1
+18476,demand,.33333334,1,Davis,1
+18566,supply,0,0,Davis,0
+18606,demand,.33333334,1,Davis,1
+18652,control,1,1,Davis,1
+76253,both,0,0,Utah,1
+76295,control,0,0,Utah,1
+76346,demand,.5,1,Utah,1
+76380,control,.40000001,1,Utah,0
+76474,demand,0,0,Utah,1
+18794,supply,.5,1,Davis,1
+18815,supply,1,1,Davis,0
+18889,both,0,0,Davis,1
+18929,demand,0,0,Davis,0
+18938,supply,.5,1,Davis,1
+19073,demand,.33333334,1,Davis,1
+19094,both,.5,1,Davis,1
+19115,demand,.66666669,1,Davis,1
+19353,demand,.25,1,Davis,0
+19376,control,0,0,Davis,1
+12386,both,0,0,Cache,1
+29937,both,0,0,Kane,0
+32167,supply,0,0,Salt Lake,1
+32180,supply,0,0,Salt Lake,1
+32200,demand,0,0,Salt Lake,1
+32271,control,.5,1,Salt Lake,0
+32292,demand,0,0,Salt Lake,0
+32356,supply,0,0,Salt Lake,1
+32387,both,0,0,Salt Lake,1
+32394,both,0,0,Salt Lake,1
+32484,control,.5,1,Salt Lake,0
+70505,supply,.5,1,Summit,1
+88137,supply,.5,1,Washington,1
+88589,both,.66666669,1,Washington,1
+32510,control,0,0,Salt Lake,0
+88673,both,0,0,Washington,1
+12408,supply,0,0,Cache,1
+11058,control,0,0,Box Elder,1
+11138,control,0,0,Box Elder,1
+32649,demand,0,0,Salt Lake,1
+32704,both,0,0,Salt Lake,1
+32758,demand,0,0,Salt Lake,1
+32762,both,1,1,Salt Lake,1
+32801,demand,.5,1,Salt Lake,1
+32903,demand,0,0,Salt Lake,1
+32926,control,.5,1,Salt Lake,1
+32961,supply,0,0,Salt Lake,0
+32990,demand,0,0,Salt Lake,1
+33039,supply,0,0,Salt Lake,1
+33087,supply,.5,1,Salt Lake,1
+33162,demand,1,1,Salt Lake,1
+33221,control,0,0,Salt Lake,1
+33307,control,1,1,Salt Lake,0
+33348,supply,0,0,Salt Lake,0
+33376,demand,0,0,Salt Lake,1
+33395,demand,.66666669,1,Salt Lake,1
+33428,supply,0,0,Salt Lake,1
+33492,control,0,0,Salt Lake,1
+33557,demand,0,0,Salt Lake,0
+33590,demand,0,0,Salt Lake,1
+33640,demand,0,0,Salt Lake,1
+33664,demand,.5,1,Salt Lake,1
+33693,supply,.5,1,Salt Lake,1
+33705,both,0,0,Salt Lake,0
+33714,control,0,0,Salt Lake,1
+33780,supply,0,0,Salt Lake,1
+12449,control,1,1,Cache,1
+88982,demand,.5,1,Washington,1
+29985,both,0,0,Kane,1
+12454,both,0,0,Cache,1
+74232,both,0,0,Uintah,1
+30299,supply,1,1,Millard,0
+30350,supply,.5,1,Millard,1
+11210,control,0,0,Box Elder,1
+30366,both,0,0,Millard,0
+76540,control,.5,1,Utah,1
+33812,control,0,0,Salt Lake,1
+33854,supply,.5,1,Salt Lake,1
+33865,both,0,0,Salt Lake,1
+34020,both,.66666669,1,Salt Lake,1
+34106,demand,.75,1,Salt Lake,0
+34175,both,1,1,Salt Lake,1
+34201,both,0,0,Salt Lake,1
+34264,control,0,0,Salt Lake,1
+34335,both,.5,1,Salt Lake,1
+34357,supply,0,0,Salt Lake,1
+34388,supply,0,0,Salt Lake,1
+34467,supply,0,0,Salt Lake,1
+34480,both,0,0,Salt Lake,1
+34553,control,0,0,Salt Lake,1
+34621,demand,.25,1,Salt Lake,0
+34666,demand,.5,1,Salt Lake,0
+34737,demand,0,0,Salt Lake,0
+34759,control,0,0,Salt Lake,1
+34785,both,.5,1,Salt Lake,0
+34839,both,0,0,Salt Lake,1
+25639,control,.5,1,Duchesne,1
+25752,demand,0,0,Duchesne,0
+25850,both,0,0,Duchesne,1
+70109,control,.5,1,Summit,0
+11313,demand,.5,1,Box Elder,0
+76689,demand,.25,1,Utah,1
+76691,supply,.33333334,1,Utah,1
+76712,both,0,0,Utah,0
+76720,control,.60000002,1,Utah,1
+76796,control,.25,1,Utah,1
+76810,both,.25,1,Utah,1
+76823,supply,.5,1,Utah,0
+76847,demand,0,0,Utah,1
+34873,supply,0,0,Salt Lake,0
+34991,supply,1,1,Salt Lake,1
+35009,demand,.5,1,Salt Lake,1
+35013,supply,.5,1,Salt Lake,1
+35032,supply,.5,1,Salt Lake,1
+35066,demand,0,0,Salt Lake,1
+35078,both,0,0,Salt Lake,0
+35124,both,0,0,Salt Lake,1
+35182,supply,0,0,Salt Lake,1
+35202,demand,1,1,Salt Lake,1
+35256,both,1,1,Salt Lake,0
+35358,supply,0,0,Salt Lake,0
+35434,supply,0,0,Salt Lake,1
+88995,both,.33333334,1,Washington,1
+28998,supply,.5,1,Iron,1
+29066,demand,.5,1,Iron,1
+29130,supply,.5,1,Iron,0
+29153,control,.33333334,1,Iron,1
+68162,control,0,0,Sanpete,1
+76909,demand,0,0,Utah,1
+76966,supply,0,0,Utah,0
+71827,supply,.5,1,Tooele,1
+71836,supply,1,1,Tooele,0
+29596,control,0,0,Juab,1
+19664,control,0,0,Davis,1
+19686,supply,.5,1,Davis,0
+19733,control,.66666669,1,Davis,1
+19746,demand,0,0,Davis,0
+19779,demand,0,0,Davis,1
+19906,control,.5,1,Davis,1
+19947,control,0,0,Davis,1
+19952,supply,.33333334,1,Davis,0
+20012,supply,.66666669,1,Davis,1
+20049,supply,.5,1,Davis,0
+20065,demand,0,0,Davis,1
+74311,demand,0,0,Uintah,1
+76984,both,0,0,Utah,1
+20096,supply,0,0,Davis,1
+20110,control,.33333334,1,Davis,1
+20175,control,.66666669,1,Davis,0
+20217,both,.33333334,1,Davis,1
+30384,control,0,0,Millard,1
+11345,control,0,0,Box Elder,1
+11384,both,.66666669,1,Box Elder,0
+30494,control,1,1,Millard,1
+92652,both,0,0,Wayne,1
+70726,control,0,0,Summit,1
+68278,supply,0,0,Sanpete,1
+92964,both,0,0,Weber,1
+93059,demand,0,0,Weber,1
+93085,demand,0,0,Weber,1
+93139,control,0,0,Weber,1
+71843,control,1,1,Tooele,1
+71891,both,.5,1,Tooele,1
+72003,demand,0,0,Tooele,0
+72019,both,1,1,Tooele,1
+72163,demand,.5,1,Tooele,1
+72280,control,0,0,Tooele,1
+11402,both,0,0,Box Elder,1
+30528,supply,0,0,Millard,1
+11418,demand,.5,1,Box Elder,1
+11500,control,0,0,Box Elder,1
+76997,demand,0,0,Utah,1
+29992,both,0,0,Kane,0
+74485,supply,0,0,Uintah,1
+35452,both,1,1,Salt Lake,0
+35508,both,0,0,Salt Lake,1
+35512,demand,0,0,Salt Lake,1
+35531,control,0,0,Salt Lake,1
+35577,demand,0,0,Salt Lake,0
+77013,supply,0,0,Utah,0
+77021,both,0,0,Utah,1
+10222,demand,1,1,Beaver,0
+74459,demand,0,0,Uintah,1
+68297,control,.33333334,1,Sanpete,1
+92668,both,1,1,Wayne,1
+27010,demand,0,0,Garfield,1
+27023,supply,0,0,Garfield,1
+71328,control,1,1,Summit,1
+35614,supply,0,0,Salt Lake,1
+35622,demand,.33333334,1,Salt Lake,0
+35701,supply,.5,1,Salt Lake,1
+35764,both,0,0,Salt Lake,1
+35793,demand,.33333334,1,Salt Lake,1
+35803,control,0,0,Salt Lake,0
+35819,both,0,0,Salt Lake,1
+35835,demand,0,0,Salt Lake,0
+35916,control,.5,1,Salt Lake,0
+36005,control,.66666669,1,Salt Lake,1
+36033,supply,0,0,Salt Lake,0
+36067,control,0,0,Salt Lake,1
+36098,control,1,1,Salt Lake,0
+36183,supply,0,0,Salt Lake,1
+70551,demand,0,0,Summit,1
+77078,both,0,0,Utah,1
+77097,both,.75,1,Utah,1
+77169,control,0,0,Utah,1
+77202,both,.5,1,Utah,0
+77239,supply,.33333334,1,Utah,1
+77241,demand,.25,1,Utah,1
+77273,control,0,0,Utah,0
+77327,demand,0,0,Utah,1
+77336,control,0,0,Utah,0
+30544,both,0,0,Millard,1
+36316,both,0,0,Salt Lake,1
+36328,supply,.5,1,Salt Lake,1
+36359,both,0,0,Salt Lake,1
+36371,demand,0,0,Salt Lake,1
+36424,demand,0,0,Salt Lake,1
+36453,control,.5,1,Salt Lake,0
+36469,both,0,0,Salt Lake,1
+36545,control,1,1,Salt Lake,1
+36597,supply,.5,1,Salt Lake,0
+36610,both,0,0,Salt Lake,1
+36634,both,0,0,Salt Lake,1
+36647,control,0,0,Salt Lake,1
+36675,demand,0,0,Salt Lake,1
+36699,supply,1,1,Salt Lake,1
+36804,supply,.5,1,Salt Lake,1
+36815,supply,0,0,Salt Lake,1
+36858,control,0,0,Salt Lake,1
+36955,demand,1,1,Salt Lake,1
+36993,supply,0,0,Salt Lake,1
+37001,control,.5,1,Salt Lake,0
+37135,demand,0,0,Salt Lake,1
+37142,both,0,0,Salt Lake,1
+30585,both,0,0,Millard,1
+11544,supply,0,0,Box Elder,1
+70420,supply,.5,1,Summit,1
+93207,supply,0,0,Weber,1
+93322,both,0,0,Weber,0
+93380,both,0,0,Weber,0
+93419,demand,0,0,Weber,1
+93426,supply,1,1,Weber,0
+93442,control,0,0,Weber,1
+93461,both,1,1,Weber,1
+93474,control,0,0,Weber,0
+93488,supply,0,0,Weber,1
+93501,control,0,0,Weber,1
+93517,control,.33333334,1,Weber,0
+89068,both,0,0,Washington,1
+89150,both,.33333334,1,Washington,0
+89215,demand,.25,1,Washington,1
+89270,both,.5,1,Washington,1
+89372,demand,.5,1,Washington,1
+89393,demand,.5,1,Washington,1
+89431,demand,.25,1,Washington,0
+89449,both,.5,1,Washington,1
+12477,supply,0,0,Cache,1
+12505,supply,0,0,Cache,0
+12514,both,0,0,Cache,1
+12551,demand,0,0,Cache,0
+12611,both,0,0,Cache,0
+12669,both,.33333334,1,Cache,0
+12719,demand,.5,1,Cache,1
+89483,demand,.33333334,1,Washington,1
+89496,supply,.33333334,1,Washington,0
+89546,control,0,0,Washington,1
+89551,supply,.33333334,1,Washington,1
+71290,both,0,0,Summit,0
+70719,control,0,0,Summit,1
+74492,control,.66666669,1,Uintah,0
+20374,both,.33333334,1,Davis,1
+20507,both,.33333334,1,Davis,1
+20548,supply,0,0,Davis,1
+20569,demand,.33333334,1,Davis,0
+20582,control,0,0,Davis,1
+20645,both,0,0,Davis,1
+20728,supply,.66666669,1,Davis,1
+20839,control,.66666669,1,Davis,1
+20841,supply,0,0,Davis,0
+30015,supply,0,0,Kane,1
+20887,control,.5,1,Davis,1
+20958,both,.33333334,1,Davis,1
+21007,demand,0,0,Davis,1
+21076,supply,.33333334,1,Davis,1
+21122,control,1,1,Davis,1
+21200,supply,1,1,Davis,1
+21216,demand,.66666669,1,Davis,0
+21259,control,0,0,Davis,1
+21263,demand,.2,1,Davis,1
+21318,both,0,0,Davis,1
+30091,both,0,0,Kane,0
+30140,demand,0,0,Kane,1
+30155,both,.66666669,1,Kane,1
+70243,control,.5,1,Summit,1
+30674,supply,0,0,Millard,1
+29195,control,0,0,Iron,1
+37220,demand,0,0,Salt Lake,1
+37296,demand,0,0,Salt Lake,1
+37306,supply,0,0,Salt Lake,1
+37375,demand,.5,1,Salt Lake,1
+37427,supply,1,1,Salt Lake,1
+37436,demand,1,1,Salt Lake,1
+37539,supply,0,0,Salt Lake,1
+37573,control,0,0,Salt Lake,1
+37587,control,0,0,Salt Lake,1
+37616,both,.5,1,Salt Lake,1
+37644,both,0,0,Salt Lake,1
+37663,demand,0,0,Salt Lake,1
+37732,supply,1,1,Salt Lake,0
+37797,supply,0,0,Salt Lake,1
+37905,control,1,1,Salt Lake,0
+37914,control,1,1,Salt Lake,1
+37922,both,0,0,Salt Lake,0
+21325,supply,0,0,Davis,0
+21341,control,.33333334,1,Davis,1
+21360,supply,0,0,Davis,1
+21373,supply,0,0,Davis,0
+21409,demand,.5,1,Davis,1
+21413,demand,.33333334,1,Davis,1
+21484,demand,.5,1,Davis,1
+21506,supply,0,0,Davis,1
+21510,both,.5,1,Davis,1
+21534,both,1,1,Davis,1
+21599,control,0,0,Davis,1
+21612,supply,0,0,Davis,0
+21665,both,1,1,Davis,1
+21715,supply,0,0,Davis,1
+21736,control,.33333334,1,Davis,1
+21838,both,0,0,Davis,1
+21893,both,.5,1,Davis,1
+21903,control,.33333334,1,Davis,1
+22016,supply,0,0,Davis,1
+22125,supply,0,0,Davis,1
+22139,supply,0,0,Davis,1
+22141,supply,.40000001,1,Davis,1
+22187,control,.5,1,Davis,1
+22269,supply,.66666669,1,Davis,1
+22295,both,0,0,Davis,1
+22305,control,.25,1,Davis,0
+22351,control,0,0,Davis,1
+22380,demand,.33333334,1,Davis,1
+22403,demand,0,0,Davis,0
+22529,demand,.5,1,Davis,0
+22627,demand,0,0,Davis,1
+22691,control,0,0,Davis,1
+22708,supply,0,0,Davis,1
+22712,control,.5,1,Davis,1
+22765,demand,0,0,Davis,1
+22875,demand,.66666669,1,Davis,1
+22945,control,0,0,Davis,1
+22978,demand,.33333334,1,Davis,1
+23022,control,.5,1,Davis,1
+23033,both,.5,1,Davis,1
+23120,supply,0,0,Davis,1
+23149,control,0,0,Davis,0
+89624,demand,0,0,Washington,1
+89669,control,0,0,Washington,1
+89676,supply,0,0,Washington,1
+77358,both,.2,1,Utah,1
+77531,supply,.33333334,1,Utah,1
+77554,both,.2,1,Utah,1
+77565,supply,.33333334,1,Utah,1
+77633,demand,.5,1,Utah,1
+29605,both,0,0,Juab,1
+77646,demand,0,0,Utah,1
+77679,control,.33333334,1,Utah,0
+77729,control,1,1,Utah,1
+77738,demand,.66666669,1,Utah,1
+77740,supply,.5,1,Utah,0
+77764,control,.2,1,Utah,1
+77772,both,.33333334,1,Utah,1
+77959,demand,0,0,Utah,1
+77985,demand,.2,1,Utah,1
+78015,control,.5,1,Utah,0
+78089,both,.33333334,1,Utah,1
+78234,control,0,0,Utah,1
+78384,supply,.33333334,1,Utah,1
+78559,demand,.66666669,1,Utah,1
+78626,control,.5,1,Utah,1
+78642,demand,0,0,Utah,1
+89682,both,1,1,Washington,0
+30688,demand,0,0,Millard,0
+12726,both,1,1,Cache,1
+12761,demand,0,0,Cache,1
+78724,control,.5,1,Utah,1
+78748,demand,.5,1,Utah,0
+78782,demand,0,0,Utah,1
+78880,both,.5,1,Utah,1
+78920,demand,.25,1,Utah,0
+78965,both,.5,1,Utah,1
+92699,demand,0,0,Wayne,1
+12788,both,1,1,Cache,0
+12816,control,0,0,Cache,0
+12828,supply,0,0,Cache,1
+12859,control,1,1,Cache,0
+12871,demand,0,0,Cache,1
+12885,supply,1,1,Cache,0
+12902,supply,1,1,Cache,1
+13161,demand,0,0,Cache,0
+13174,supply,0,0,Cache,1
+13212,both,0,0,Cache,1
+13220,control,.5,1,Cache,1
+13254,both,.5,1,Cache,1
+13310,demand,.5,1,Cache,0
+13323,supply,0,0,Cache,0
+13415,supply,.25,1,Cache,1
+13489,control,0,0,Cache,0
+13502,control,0,0,Cache,0
+13518,supply,.5,1,Cache,1
+13594,control,1,1,Cache,0
+13616,supply,0,0,Cache,1
+13637,supply,.5,1,Cache,0
+13644,supply,0,0,Cache,1
+13659,both,0,0,Cache,1
+13811,control,0,0,Cache,1
+74526,demand,.5,1,Uintah,1
+92756,demand,0,0,Wayne,1
+30711,both,.5,1,Millard,1
+78977,control,.33333334,1,Utah,0
+78996,both,0,0,Utah,1
+79024,both,.2,1,Utah,1
+79053,demand,.25,1,Utah,1
+79076,control,.33333334,1,Utah,1
+37933,both,.5,1,Salt Lake,1
+37967,supply,1,1,Salt Lake,0
+37979,demand,0,0,Salt Lake,1
+38047,control,1,1,Salt Lake,1
+38204,control,0,0,Salt Lake,1
+38289,both,0,0,Salt Lake,1
+38393,demand,1,1,Salt Lake,1
+38449,both,.5,1,Salt Lake,0
+38465,supply,.5,1,Salt Lake,1
+38477,demand,0,0,Salt Lake,0
+38611,both,0,0,Salt Lake,0
+38719,supply,0,0,Salt Lake,0
+38726,demand,0,0,Salt Lake,1
+38757,demand,0,0,Salt Lake,0
+68324,demand,.5,1,Sanpete,1
+68376,supply,0,0,Sanpete,1
+11707,control,0,0,Box Elder,1
+68400,demand,0,0,Sanpete,1
+74590,supply,0,0,Uintah,1
+74574,supply,0,0,Uintah,1
+13895,control,1,1,Cache,1
+13905,both,.33333334,1,Cache,1
+25976,control,0,0,Duchesne,1
+38790,control,.5,1,Salt Lake,1
+38844,both,0,0,Salt Lake,1
+38902,both,0,0,Salt Lake,0
+38925,both,0,0,Salt Lake,1
+38973,demand,1,1,Salt Lake,1
+38994,supply,0,0,Salt Lake,1
+39019,supply,0,0,Salt Lake,1
+39035,both,1,1,Salt Lake,1
+39074,demand,0,0,Salt Lake,0
+39128,control,0,0,Salt Lake,0
+39137,control,0,0,Salt Lake,1
+39163,demand,.5,1,Salt Lake,0
+39205,control,.5,1,Salt Lake,0
+39251,demand,.25,1,Salt Lake,1
+39331,both,.5,1,Salt Lake,1
+39354,both,.33333334,1,Salt Lake,1
+29218,supply,0,0,Iron,0
+39543,control,1,1,Salt Lake,0
+39570,supply,0,0,Salt Lake,0
+39589,control,0,0,Salt Lake,1
+39618,supply,.5,1,Salt Lake,1
+39625,supply,0,0,Salt Lake,1
+39639,both,0,0,Salt Lake,1
+39775,both,0,0,Salt Lake,1
+39821,control,0,0,Salt Lake,1
+39907,supply,0,0,Salt Lake,0
+39911,supply,1,1,Salt Lake,0
+39930,control,1,1,Salt Lake,1
+40086,control,0,0,Salt Lake,1
+40161,both,0,0,Salt Lake,1
+40231,both,1,1,Salt Lake,1
+40249,control,0,0,Salt Lake,1
+40254,demand,.5,1,Salt Lake,0
+13933,both,0,0,Cache,1
+13951,supply,0,0,Cache,1
+10233,both,0,0,Beaver,0
+10279,demand,0,0,Beaver,1
+29622,demand,0,0,Juab,1
+40310,control,1,1,Salt Lake,1
+40323,control,0,0,Salt Lake,1
+40368,supply,0,0,Salt Lake,1
+40415,both,0,0,Salt Lake,1
+40443,control,0,0,Salt Lake,1
+40489,control,1,1,Salt Lake,1
+40502,demand,0,0,Salt Lake,1
+93555,supply,1,1,Weber,1
+93643,control,0,0,Weber,1
+93662,demand,1,1,Weber,0
+93691,supply,0,0,Weber,0
+68519,control,0,0,Sanpete,1
+68542,control,.66666669,1,Sanpete,1
+40573,control,0,0,Salt Lake,1
+40616,control,.5,1,Salt Lake,0
+40644,control,0,0,Salt Lake,1
+40659,both,0,0,Salt Lake,0
+40797,control,0,0,Salt Lake,1
+40824,demand,1,1,Salt Lake,1
+40905,demand,0,0,Salt Lake,1
+40922,both,.5,1,Salt Lake,0
+40946,both,0,0,Salt Lake,1
+41041,supply,0,0,Salt Lake,1
+41221,both,.5,1,Salt Lake,1
+41284,both,0,0,Salt Lake,1
+41297,demand,0,0,Salt Lake,0
+41311,both,.5,1,Salt Lake,1
+41348,demand,0,0,Salt Lake,1
+41395,control,0,0,Salt Lake,1
+41400,both,1,1,Salt Lake,0
+41444,supply,1,1,Salt Lake,0
+41471,control,0,0,Salt Lake,1
+41590,both,0,0,Salt Lake,0
+41629,control,0,0,Salt Lake,0
+41686,supply,.5,1,Salt Lake,1
+41714,both,0,0,Salt Lake,1
+41733,supply,0,0,Salt Lake,0
+41746,both,0,0,Salt Lake,0
+41779,supply,1,1,Salt Lake,0
+41808,supply,0,0,Salt Lake,1
+41854,supply,.5,1,Salt Lake,1
+41877,both,0,0,Salt Lake,1
+41910,supply,1,1,Salt Lake,1
+41947,demand,1,1,Salt Lake,1
+41968,control,0,0,Salt Lake,1
+41981,control,0,0,Salt Lake,1
+42066,supply,0,0,Salt Lake,1
+42294,control,0,0,Salt Lake,0
+42315,control,0,0,Salt Lake,1
+42336,supply,1,1,Salt Lake,1
+42343,both,1,1,Salt Lake,0
+42434,supply,0,0,Salt Lake,0
+42531,supply,0,0,Salt Lake,1
+74629,control,.25,1,Uintah,0
+26018,demand,0,0,Duchesne,1
+26025,demand,0,0,Duchesne,1
+29679,both,0,0,Juab,1
+29698,demand,0,0,Juab,1
+29772,supply,1,1,Juab,0
+29738,demand,0,0,Juab,1
+29755,supply,.5,1,Juab,0
+26073,both,0,0,Duchesne,1
+13967,demand,.33333334,1,Cache,1
+29304,supply,0,0,Iron,1
+14011,demand,0,0,Cache,1
+14024,supply,0,0,Cache,1
+14053,control,1,1,Cache,0
+14105,supply,.5,1,Cache,0
+14122,control,0,0,Cache,0
+14151,demand,.33333334,1,Cache,1
+14179,supply,.75,1,Cache,0
+14200,supply,.2,1,Cache,1
+14259,both,1,1,Cache,1
+93777,supply,0,0,Weber,1
+93806,demand,.5,1,Weber,1
+93834,both,0,0,Weber,1
+93847,demand,0,0,Weber,1
+93881,supply,.33333334,1,Weber,1
+93978,both,1,1,Weber,1
+93997,control,0,0,Weber,1
+94010,both,.33333334,1,Weber,1
+94081,both,0,0,Weber,1
+94132,control,.5,1,Weber,1
+94150,demand,0,0,Weber,1
+94262,demand,.66666669,1,Weber,0
+94301,demand,0,0,Weber,1
+74664,control,.33333334,1,Uintah,1
+23290,supply,.5,1,Davis,1
+23359,control,.66666669,1,Davis,0
+23482,both,.5,1,Davis,1
+23606,both,1,1,Davis,1
+23610,both,0,0,Davis,0
+23647,supply,.66666669,1,Davis,1
+23668,both,.5,1,Davis,1
+23699,supply,.66666669,1,Davis,0
+23702,both,.5,1,Davis,1
+70598,supply,1,1,Summit,1
+70317,supply,.5,1,Summit,1
+30748,control,0,0,Millard,1
+94465,both,0,0,Weber,1
+94483,demand,0,0,Weber,1
+94505,control,.5,1,Weber,0
+94546,both,.5,1,Weber,0
+94551,supply,1,1,Weber,0
+94567,supply,1,1,Weber,0
+94598,supply,0,0,Weber,1
+94719,both,0,0,Weber,1
+94774,supply,0,0,Weber,1
+94790,control,1,1,Weber,1
+94837,control,0,0,Weber,1
+94885,both,1,1,Weber,0
+94902,control,1,1,Weber,1
+94939,both,0,0,Weber,1
+94960,supply,0,0,Weber,1
+95030,control,0,0,Weber,1
+95053,demand,0,0,Weber,1
+95105,demand,1,1,Weber,1
+95133,control,0,0,Weber,1
+95180,supply,1,1,Weber,1
+95198,demand,.5,1,Weber,1
+95216,control,.5,1,Weber,1
+95259,supply,0,0,Weber,0
+95285,demand,1,1,Weber,1
+95292,demand,1,1,Weber,0
+95373,demand,0,0,Weber,1
+95394,demand,0,0,Weber,1
+95409,control,0,0,Weber,1
+95421,control,0,0,Weber,1
+95432,control,0,0,Weber,1
+95450,control,1,1,Weber,1
+95466,demand,.5,1,Weber,1
+95534,supply,0,0,Weber,1
+95620,control,.5,1,Weber,0
+95649,demand,0,0,Weber,1
+95715,control,0,0,Weber,0
+95736,both,0,0,Weber,1
+95743,supply,0,0,Weber,1
+95762,control,0,0,Weber,0
+95789,control,.5,1,Weber,0
+95791,both,.5,1,Weber,1
+79179,both,0,0,Utah,1
+79228,both,0,0,Utah,1
+79237,supply,0,0,Utah,1
+79318,supply,.33333334,1,Utah,1
+79373,both,.2,1,Utah,1
+79409,control,.33333334,1,Utah,0
+79413,demand,.25,1,Utah,1
+79445,demand,1,1,Utah,1
+79450,demand,1,1,Utah,0
+79510,both,0,0,Utah,1
+79523,control,0,0,Utah,1
+79534,both,0,0,Utah,1
+79575,both,.33333334,1,Utah,1
+79608,both,1,1,Utah,0
+79696,control,0,0,Utah,1
+79715,supply,0,0,Utah,1
+79770,supply,0,0,Utah,1
+79789,both,1,1,Utah,1
+79801,both,0,0,Utah,1
+79817,control,.66666669,1,Utah,1
+79855,both,0,0,Utah,1
+79872,control,.25,1,Utah,1
+79886,demand,.25,1,Utah,1
+79893,demand,0,0,Utah,1
+79961,demand,.5,1,Utah,1
+79988,control,.33333334,1,Utah,1
+80131,both,.66666669,1,Utah,1
+80226,both,.33333334,1,Utah,1
+80274,demand,.5,1,Utah,1
+80290,supply,0,0,Utah,1
+80337,both,.5,1,Utah,1
+80363,demand,0,0,Utah,1
+80448,both,1,1,Utah,1
+80509,demand,0,0,Utah,1
+80566,demand,.5,1,Utah,0
+80584,demand,0,0,Utah,1
+80634,supply,.33333334,1,Utah,1
+80681,both,.66666669,1,Utah,1
+80699,demand,0,0,Utah,1
+80773,supply,.33333334,1,Utah,1
+80804,control,.5,1,Utah,0
+80843,supply,.5,1,Utah,1
+80889,demand,.25,1,Utah,1
+80938,demand,.5,1,Utah,0
+81013,supply,.33333334,1,Utah,1
+81021,supply,.5,1,Utah,1
+81032,both,.75,1,Utah,1
+81078,supply,0,0,Utah,1
+81182,supply,0,0,Utah,1
+81256,demand,0,0,Utah,1
+81304,supply,.75,1,Utah,0
+81343,demand,0,0,Utah,1
+81358,supply,0,0,Utah,1
+81389,both,.5,1,Utah,1
+81423,both,.33333334,1,Utah,0
+81447,control,0,0,Utah,1
+27099,demand,0,0,Garfield,1
+27109,control,1,1,Garfield,0
+14263,both,0,0,Cache,0
+29327,both,1,1,Iron,0
+29370,both,.33333334,1,Iron,0
+29410,demand,.5,1,Iron,1
+29452,both,0,0,Iron,1
+71578,both,0,0,Summit,1
+70338,both,.5,1,Summit,1
+11748,demand,0,0,Box Elder,1
+11879,control,.33333334,1,Box Elder,1
+11898,control,0,0,Box Elder,1
+81468,demand,0,0,Utah,1
+81633,demand,0,0,Utah,1
+81646,control,0,0,Utah,0
+81701,control,0,0,Utah,1
+81738,control,0,0,Utah,0
+81842,both,0,0,Utah,1
+82094,demand,.5,1,Utah,1
+82136,both,.2,1,Utah,1
+82191,both,.66666669,1,Utah,1
+82266,both,.33333334,1,Utah,1
+82284,supply,.5,1,Utah,1
+82311,both,.33333334,1,Utah,1
+82353,supply,.5,1,Utah,1
+71337,both,1,1,Summit,1
+71550,control,0,0,Summit,0
+95829,control,.5,1,Weber,1
+95893,both,1,1,Weber,1
+95942,control,0,0,Weber,1
+95990,control,0,0,Weber,1
+96008,control,0,0,Weber,1
+96020,demand,.33333334,1,Weber,1
+96031,control,.5,1,Weber,1
+96077,supply,.5,1,Weber,0
+96123,both,0,0,Weber,1
+11912,control,0,0,Box Elder,1
+82369,control,0,0,Utah,1
+82382,supply,.5,1,Utah,1
+82416,demand,.5,1,Utah,1
+82428,both,.5,1,Utah,0
+82459,supply,.33333334,1,Utah,0
+82463,both,0,0,Utah,1
+82471,control,0,0,Utah,1
+82629,both,0,0,Utah,1
+82640,demand,0,0,Utah,1
+82705,control,.5,1,Utah,1
+82722,control,0,0,Utah,0
+82779,both,.5,1,Utah,1
+82812,supply,.66666669,1,Utah,1
+82820,supply,1,1,Utah,0
+82831,both,.25,1,Utah,1
+82849,supply,.33333334,1,Utah,1
+82934,demand,.66666669,1,Utah,1
+82952,demand,0,0,Utah,1
+83069,control,.5,1,Utah,0
+83122,demand,.66666669,1,Utah,0
+83237,demand,.5,1,Utah,1
+83341,both,0,0,Utah,0
+83360,demand,.33333334,1,Utah,1
+83450,demand,0,0,Utah,1
+83466,supply,.33333334,1,Utah,1
+83478,demand,.5,1,Utah,1
+83506,both,0,0,Utah,1
+83599,both,.66666669,1,Utah,0
+83612,demand,.5,1,Utah,1
+83654,demand,0,0,Utah,1
+83743,both,0,0,Utah,0
+83801,demand,.5,1,Utah,1
+83840,control,0,0,Utah,1
+83855,control,0,0,Utah,1
+83864,supply,0,0,Utah,1
+83872,demand,0,0,Utah,1
+83961,supply,0,0,Utah,1
+84017,supply,.5,1,Utah,1
+84040,demand,0,0,Utah,1
+84135,supply,0,0,Utah,1
+84142,both,0,0,Utah,1
+84161,supply,.66666669,1,Utah,0
+14271,control,0,0,Cache,0
+14285,demand,.5,1,Cache,0
+14356,control,0,0,Cache,0
+14387,both,0,0,Cache,1
+14413,both,0,0,Cache,0
+11954,demand,1,1,Box Elder,0
+70828,control,0,0,Summit,1
+71566,control,1,1,Summit,1
+71120,control,0,0,Summit,1
+14484,control,0,0,Cache,1
+14523,control,0,0,Cache,1
+11965,supply,0,0,Box Elder,1
+44773,supply,.33333334,1,Salt Lake,0
+96342,supply,0,0,Weber,0
+44787,control,0,0,Salt Lake,0
+96390,supply,0,0,Weber,0
+44815,demand,0,0,Salt Lake,1
+96422,control,.5,1,Weber,0
+44836,demand,0,0,Salt Lake,1
+96498,supply,0,0,Weber,1
+44843,both,.33333334,1,Salt Lake,1
+96650,control,0,0,Weber,1
+44891,demand,0,0,Salt Lake,0
+44917,both,0,0,Salt Lake,0
+44940,supply,0,0,Salt Lake,1
+44964,control,.5,1,Salt Lake,0
+44986,demand,0,0,Salt Lake,1
+45023,supply,.5,1,Salt Lake,1
+45068,both,0,0,Salt Lake,1
+45081,both,0,0,Salt Lake,1
+45132,demand,.25,1,Salt Lake,1
+45178,demand,.33333334,1,Salt Lake,1
+45215,demand,0,0,Salt Lake,1
+45262,demand,0,0,Salt Lake,1
+45270,demand,0,0,Salt Lake,1
+45289,control,1,1,Salt Lake,1
+45412,control,.33333334,1,Salt Lake,1
+45454,demand,1,1,Salt Lake,1
+45465,demand,0,0,Salt Lake,1
+45483,both,1,1,Salt Lake,1
+45648,both,0,0,Salt Lake,0
+45676,demand,0,0,Salt Lake,1
+45719,demand,0,0,Salt Lake,1
+45757,supply,0,0,Salt Lake,1
+26143,supply,0,0,Duchesne,1
+26162,both,0,0,Duchesne,1
+26170,control,0,0,Duchesne,1
+26250,control,0,0,Duchesne,1
+26266,supply,0,0,Duchesne,1
+26284,control,0,0,Duchesne,0
+26307,demand,.5,1,Duchesne,1
+26330,control,0,0,Duchesne,1
+26376,demand,1,1,Duchesne,1
+26400,control,0,0,Duchesne,1
+96716,both,0,0,Weber,1
+96728,supply,.33333334,1,Weber,1
+96737,demand,0,0,Weber,1
+96744,supply,0,0,Weber,1
+96759,demand,0,0,Weber,1
+96792,control,0,0,Weber,1
+96802,supply,0,0,Weber,0
+96989,control,.5,1,Weber,1
+97036,demand,0,0,Weber,1
+97043,control,.5,1,Weber,1
+97062,supply,0,0,Weber,1
+97091,both,1,1,Weber,1
+97129,supply,0,0,Weber,1
+97140,supply,.5,1,Weber,0
+97155,control,.5,1,Weber,1
+97172,control,0,0,Weber,1
+97234,demand,0,0,Weber,1
+97252,both,.5,1,Weber,1
+97299,control,0,0,Weber,1
+70669,demand,1,1,Summit,0
+29793,control,0,0,Juab,1
+72486,both,0,0,Tooele,0
+14552,control,0,0,Cache,1
+14575,control,0,0,Cache,1
+84174,demand,1,1,Utah,1
+84254,supply,.25,1,Utah,1
+84277,control,.40000001,1,Utah,1
+84306,demand,0,0,Utah,1
+84347,supply,0,0,Utah,1
+46007,control,0,0,Salt Lake,1
+46024,control,0,0,Salt Lake,1
+46285,both,0,0,Salt Lake,1
+46325,supply,0,0,Salt Lake,0
+46409,supply,0,0,Salt Lake,1
+46506,demand,1,1,Salt Lake,1
+46523,both,0,0,Salt Lake,0
+46552,supply,0,0,Salt Lake,1
+46581,demand,0,0,Salt Lake,1
+46677,supply,0,0,Salt Lake,1
+46696,both,0,0,Salt Lake,1
+46727,both,.5,1,Salt Lake,1
+46789,supply,0,0,Salt Lake,1
+46817,supply,1,1,Salt Lake,1
+46838,control,0,0,Salt Lake,1
+46840,supply,0,0,Salt Lake,0
+46855,supply,0,0,Salt Lake,0
+46872,both,.33333334,1,Salt Lake,1
+46893,supply,0,0,Salt Lake,1
+46942,supply,.5,1,Salt Lake,1
+46974,demand,.5,1,Salt Lake,1
+47003,supply,1,1,Salt Lake,0
+47074,control,0,0,Salt Lake,0
+47144,supply,1,1,Salt Lake,1
+47185,demand,0,0,Salt Lake,0
+47214,both,0,0,Salt Lake,0
+47251,control,1,1,Salt Lake,1
+47267,supply,0,0,Salt Lake,1
+47280,both,.5,1,Salt Lake,1
+47331,demand,0,0,Salt Lake,1
+47365,supply,1,1,Salt Lake,1
+47396,control,0,0,Salt Lake,1
+47455,demand,1,1,Salt Lake,0
+47591,control,.33333334,1,Salt Lake,1
+47625,demand,.5,1,Salt Lake,1
+47639,control,.5,1,Salt Lake,1
+47687,supply,0,0,Salt Lake,0
+47723,supply,.5,1,Salt Lake,0
+47752,demand,0,0,Salt Lake,0
+47781,supply,.5,1,Salt Lake,1
+47832,supply,.5,1,Salt Lake,1
+47850,demand,0,0,Salt Lake,1
+47948,both,0,0,Salt Lake,0
+47969,both,.33333334,1,Salt Lake,1
+48077,both,.66666669,1,Salt Lake,1
+48083,supply,0,0,Salt Lake,1
+48181,both,0,0,Salt Lake,1
+48240,control,0,0,Salt Lake,1
+48303,supply,.33333334,1,Salt Lake,1
+48414,both,0,0,Salt Lake,1
+48422,demand,0,0,Salt Lake,1
+48524,supply,0,0,Salt Lake,1
+48645,both,.5,1,Salt Lake,1
+48697,control,.5,1,Salt Lake,1
+48737,demand,0,0,Salt Lake,1
+48759,demand,0,0,Salt Lake,1
+48802,both,0,0,Salt Lake,0
+48818,supply,0,0,Salt Lake,1
+48825,supply,0,0,Salt Lake,1
+48860,control,.5,1,Salt Lake,1
+48873,demand,0,0,Salt Lake,0
+48958,control,0,0,Salt Lake,1
+48991,demand,0,0,Salt Lake,0
+49125,control,0,0,Salt Lake,1
+49173,demand,0,0,Salt Lake,1
+49295,supply,0,0,Salt Lake,1
+49314,control,0,0,Salt Lake,0
+49346,control,1,1,Salt Lake,1
+49380,both,0,0,Salt Lake,1
+89774,demand,.5,1,Washington,1
+89816,supply,0,0,Washington,1
+89892,both,0,0,Washington,1
+89973,control,.66666669,1,Washington,1
+30805,demand,1,1,Millard,1
+71509,demand,1,1,Summit,1
+84436,both,0,0,Utah,1
+84458,control,0,0,Utah,1
+84518,control,.5,1,Utah,1
+84525,both,1,1,Utah,1
+84539,both,0,0,Utah,1
+84573,control,0,0,Utah,1
+84692,control,0,0,Utah,1
+84709,both,.33333334,1,Utah,1
+84732,both,.33333334,1,Utah,1
+84750,supply,.33333334,1,Utah,1
+84853,control,.33333334,1,Utah,0
+84876,control,.33333334,1,Utah,1
+85000,both,.33333334,1,Utah,0
+85092,supply,.2,1,Utah,1
+85118,both,1,1,Utah,0
+90002,control,0,0,Washington,1
+90018,both,0,0,Washington,1
+90094,demand,0,0,Washington,1
+90189,demand,.33333334,1,Washington,0
+90191,demand,.5,1,Washington,0
+90232,control,0,0,Washington,1
+90245,supply,.5,1,Washington,1
+90266,supply,.66666669,1,Washington,1
+90307,both,.33333334,1,Washington,1
+90311,demand,1,1,Washington,0
+90353,supply,.66666669,1,Washington,0
+90376,demand,0,0,Washington,1
+90382,supply,.33333334,1,Washington,1
+90395,supply,.25,1,Washington,0
+90428,both,0,0,Washington,1
+90437,demand,.33333334,1,Washington,1
+90492,both,.25,1,Washington,0
+90519,both,.33333334,1,Washington,1
+90526,demand,.40000001,1,Washington,1
+90542,both,.25,1,Washington,1
+90561,demand,.66666669,1,Washington,1
+90601,supply,.25,1,Washington,1
+90629,control,0,0,Washington,1
+90820,demand,0,0,Washington,1
+90883,control,.5,1,Washington,1
+90896,both,.5,1,Washington,1
+90906,control,0,0,Washington,1
+90934,supply,.33333334,1,Washington,1
+90947,supply,.33333334,1,Washington,1
+91088,supply,.16666667,1,Washington,1
+91100,supply,.2,1,Washington,1
+91163,supply,0,0,Washington,1
+91192,demand,.5,1,Washington,1
+91246,demand,0,0,Washington,1
+91251,demand,0,0,Washington,0
+91298,supply,.25,1,Washington,1
+91440,control,0,0,Washington,0
+91486,both,.5,1,Washington,0
+91527,demand,.66666669,1,Washington,1
+91543,demand,.75,1,Washington,0
+91570,demand,.33333334,1,Washington,1
+91589,supply,.33333334,1,Washington,1
+91656,both,0,0,Washington,1
+49419,control,0,0,Salt Lake,1
+49426,supply,0,0,Salt Lake,1
+49517,control,1,1,Salt Lake,1
+49529,both,0,0,Salt Lake,1
+49586,both,1,1,Salt Lake,1
+49615,control,1,1,Salt Lake,1
+49731,both,0,0,Salt Lake,1
+49754,control,0,0,Salt Lake,1
+49823,both,0,0,Salt Lake,1
+49913,control,0,0,Salt Lake,0
+49921,supply,0,0,Salt Lake,1
+49984,supply,0,0,Salt Lake,1
+50044,both,0,0,Salt Lake,1
+50063,demand,0,0,Salt Lake,1
+50071,control,0,0,Salt Lake,1
+50102,demand,0,0,Salt Lake,1
+50187,control,.33333334,1,Salt Lake,1
+50276,supply,0,0,Salt Lake,1
+50282,demand,.25,1,Salt Lake,1
+50295,control,0,0,Salt Lake,1
+50333,demand,.5,1,Salt Lake,1
+50367,control,.66666669,1,Salt Lake,0
+50380,both,0,0,Salt Lake,1
+50442,supply,.5,1,Salt Lake,0
+50457,demand,0,0,Salt Lake,1
+50461,both,0,0,Salt Lake,1
+50538,both,.66666669,1,Salt Lake,1
+50593,supply,.5,1,Salt Lake,1
+50615,control,.5,1,Salt Lake,0
+50689,supply,.33333334,1,Salt Lake,1
+50777,both,0,0,Salt Lake,0
+50783,control,0,0,Salt Lake,0
+50810,control,0,0,Salt Lake,1
+50921,both,0,0,Salt Lake,1
+50966,demand,.5,1,Salt Lake,0
+51040,demand,.25,1,Salt Lake,0
+51064,demand,.33333334,1,Salt Lake,0
+51086,control,0,0,Salt Lake,1
+51142,demand,0,0,Salt Lake,1
+51157,demand,0,0,Salt Lake,1
+51188,both,1,1,Salt Lake,1
+51212,both,.5,1,Salt Lake,0
+51231,supply,0,0,Salt Lake,0
+51306,supply,.5,1,Salt Lake,1
+51518,demand,0,0,Salt Lake,1
+51594,control,.5,1,Salt Lake,1
+51671,both,1,1,Salt Lake,1
+51692,demand,1,1,Salt Lake,1
+51766,demand,0,0,Salt Lake,1
+51797,both,0,0,Salt Lake,1
+51824,control,0,0,Salt Lake,0
+51946,demand,0,0,Salt Lake,1
+52083,control,1,1,Salt Lake,1
+52106,both,.5,1,Salt Lake,1
+52123,demand,1,1,Salt Lake,0
+52168,both,0,0,Salt Lake,1
+52201,demand,0,0,Salt Lake,1
+52229,control,0,0,Salt Lake,1
+52238,control,0,0,Salt Lake,1
+52240,control,0,0,Salt Lake,1
+52303,supply,0,0,Salt Lake,0
+52390,supply,.75,1,Salt Lake,1
+52405,supply,1,1,Salt Lake,1
+52467,demand,0,0,Salt Lake,1
+52480,demand,0,0,Salt Lake,1
+52553,supply,1,1,Salt Lake,1
+52595,both,0,0,Salt Lake,1
+52792,supply,0,0,Salt Lake,1
+52802,demand,0,0,Salt Lake,0
+52989,supply,0,0,Salt Lake,1
+53057,supply,0,0,Salt Lake,1
+53090,supply,0,0,Salt Lake,1
+53100,both,1,1,Salt Lake,1
+53137,both,1,1,Salt Lake,0
+53159,demand,0,0,Salt Lake,1
+53163,control,0,0,Salt Lake,1
+53192,supply,1,1,Salt Lake,1
+53401,supply,0,0,Salt Lake,0
+53455,supply,0,0,Salt Lake,1
+53486,both,0,0,Salt Lake,1
+53570,supply,0,0,Salt Lake,1
+53602,demand,0,0,Salt Lake,1
+53694,demand,0,0,Salt Lake,1
+53768,supply,0,0,Salt Lake,1
+53775,control,0,0,Salt Lake,1
+53799,supply,1,1,Salt Lake,1
+53809,control,0,0,Salt Lake,0
+53821,control,0,0,Salt Lake,1
+53866,both,1,1,Salt Lake,1
+54084,control,1,1,Salt Lake,0
+54273,both,0,0,Salt Lake,1
+54287,demand,1,1,Salt Lake,1
+54327,both,0,0,Salt Lake,1
+54336,control,0,0,Salt Lake,1
+54410,control,1,1,Salt Lake,1
+54434,both,0,0,Salt Lake,1
+54447,supply,0,0,Salt Lake,1
+54605,control,0,0,Salt Lake,1
+54667,both,1,1,Salt Lake,1
+54803,both,0,0,Salt Lake,1
+54826,supply,0,0,Salt Lake,0
+54900,both,.5,1,Salt Lake,1
+55149,supply,1,1,Salt Lake,0
+55165,control,0,0,Salt Lake,1
+55203,both,0,0,Salt Lake,0
+55219,control,0,0,Salt Lake,1
+55261,control,0,0,Salt Lake,1
+55274,demand,1,1,Salt Lake,1
+55344,both,0,0,Salt Lake,0
+55359,supply,0,0,Salt Lake,1
+55363,both,0,0,Salt Lake,0
+55385,supply,0,0,Salt Lake,0
+55448,control,0,0,Salt Lake,1
+55453,both,0,0,Salt Lake,0
+55476,demand,0,0,Salt Lake,1
+55521,control,0,0,Salt Lake,0
+55668,demand,0,0,Salt Lake,1
+55699,supply,1,1,Salt Lake,0
+55702,supply,.5,1,Salt Lake,1
+55794,control,0,0,Salt Lake,0
+55836,control,0,0,Salt Lake,1
+55889,supply,0,0,Salt Lake,1
+55964,both,.5,1,Salt Lake,1
+55972,control,0,0,Salt Lake,1
+56006,both,0,0,Salt Lake,1
+56121,control,.5,1,Salt Lake,0
+56145,demand,0,0,Salt Lake,1
+56227,control,1,1,Salt Lake,1
+56236,control,1,1,Salt Lake,1
+56243,demand,0,0,Salt Lake,1
+56270,supply,0,0,Salt Lake,0
+56301,supply,1,1,Salt Lake,1
+56338,supply,0,0,Salt Lake,1
+56372,demand,0,0,Salt Lake,1
+56386,both,0,0,Salt Lake,1
+56449,control,1,1,Salt Lake,0
+56546,control,0,0,Salt Lake,1
+56653,demand,0,0,Salt Lake,0
+56726,supply,0,0,Salt Lake,0
+56735,control,0,0,Salt Lake,1
+56761,supply,0,0,Salt Lake,1
+56892,demand,0,0,Salt Lake,1
+56918,both,0,0,Salt Lake,1
+57056,demand,0,0,Salt Lake,1
+57060,demand,1,1,Salt Lake,0
+57073,both,.5,1,Salt Lake,1
+57127,control,0,0,Salt Lake,1
+70364,both,1,1,Summit,1
+14620,supply,0,0,Cache,1
+14665,control,0,0,Cache,1
+14696,demand,.33333334,1,Cache,1
+14704,supply,.33333334,1,Cache,1
+14736,both,0,0,Cache,1
+14743,both,.5,1,Cache,1
+14758,supply,.33333334,1,Cache,1
+74722,both,.5,1,Uintah,0
+97309,control,0,0,Weber,0
+97313,both,0,0,Weber,1
+97345,supply,0,0,Weber,1
+97384,control,0,0,Weber,1
+97397,demand,0,0,Weber,1
+97528,supply,0,0,Weber,1
+97657,control,.5,1,Weber,1
+97690,demand,.5,1,Weber,1
+97753,control,.5,1,Weber,1
+97782,supply,.66666669,1,Weber,0
+97879,control,0,0,Weber,0
+97880,both,0,0,Weber,1
+72515,supply,.33333334,1,Tooele,0
+72558,both,0,0,Tooele,1
+72639,demand,.5,1,Tooele,0
+72656,control,0,0,Tooele,1
+72687,supply,.5,1,Tooele,1
+72752,supply,0,0,Tooele,1
+72813,supply,0,0,Tooele,1
+85141,supply,1,1,Utah,1
+85253,both,0,0,Utah,1
+85269,supply,.5,1,Utah,1
+85276,supply,.66666669,1,Utah,1
+85295,both,.33333334,1,Utah,1
+85322,demand,0,0,Utah,1
+85351,supply,.25,1,Utah,1
+85442,control,.5,1,Utah,0
+85474,supply,.33333334,1,Utah,1
+85488,supply,0,0,Utah,1
+85564,supply,.5,1,Utah,1
+85615,control,0,0,Utah,1
+85636,supply,0,0,Utah,1
+85670,demand,0,0,Utah,1
+85712,both,1,1,Utah,1
+85720,control,0,0,Utah,1
+68629,demand,0,0,Sanpete,1
+85834,demand,0,0,Utah,1
+85899,both,.25,1,Utah,1
+85913,demand,.5,1,Utah,1
+85966,both,0,0,Utah,0
+85978,supply,0,0,Utah,1
+86004,control,1,1,Utah,1
+86015,both,.2857143,1,Utah,0
+86036,both,0,0,Utah,1
+86043,control,0,0,Utah,1
+86062,demand,.2,1,Utah,1
+86070,both,.33333334,1,Utah,1
+86138,control,.375,1,Utah,0
+68714,demand,0,0,Sanpete,0
+57213,demand,0,0,Salt Lake,0
+57250,supply,1,1,Salt Lake,1
+57297,supply,0,0,Salt Lake,1
+57376,control,0,0,Salt Lake,1
+57471,demand,1,1,Salt Lake,1
+57638,control,1,1,Salt Lake,1
+57693,both,.5,1,Salt Lake,0
+57705,both,0,0,Salt Lake,1
+57751,control,0,0,Salt Lake,1
+70236,control,0,0,Summit,1
+70533,both,.5,1,Summit,0
+72884,supply,0,0,Tooele,0
+68808,supply,0,0,Sanpete,1
+23815,control,1,1,Davis,1
+23836,supply,0,0,Davis,1
+23870,demand,.5,1,Davis,0
+29583,both,0,0,Iron,1
+70184,supply,0,0,Summit,1
+30814,control,0,0,Millard,0
+23891,supply,0,0,Davis,1
+23917,demand,.5,1,Davis,1
+23955,demand,.5,1,Davis,1
+74733,both,0,0,Uintah,1
+12010,demand,1,1,Box Elder,0
+24089,supply,.33333334,1,Davis,1
+24117,both,0,0,Davis,0
+24140,demand,.33333334,1,Davis,1
+24155,control,0,0,Davis,1
+24186,control,1,1,Davis,1
+24313,control,.33333334,1,Davis,1
+24402,both,.66666669,1,Davis,0
+24460,both,0,0,Davis,1
+24559,demand,1,1,Davis,1
+24585,supply,0,0,Davis,1
+24603,demand,0,0,Davis,0
+24635,both,0,0,Davis,1
+24769,demand,0,0,Davis,1
+24776,control,0,0,Davis,1
+72907,both,0,0,Tooele,1
+72976,both,1,1,Tooele,1
+73123,control,0,0,Tooele,1
+73134,supply,0,0,Tooele,1
+73357,both,0,0,Tooele,1
+73374,supply,0,0,Tooele,1
+73480,control,0,0,Tooele,1
+73524,control,0,0,Tooele,1
+73548,supply,0,0,Tooele,1
+73582,demand,0,0,Tooele,1
+73595,demand,0,0,Tooele,1
+73632,demand,0,0,Tooele,1
+73666,demand,.5,1,Tooele,1
+73700,control,.5,1,Tooele,0
+73716,both,0,0,Tooele,0
+73759,both,0,0,Tooele,0
+73771,demand,0,0,Tooele,1
+73825,supply,0,0,Tooele,1
+73887,demand,1,1,Tooele,0
+26459,demand,1,1,Duchesne,1
+57952,control,.5,1,Salt Lake,0
+98050,supply,0,0,Weber,1
+57999,demand,0,0,Salt Lake,1
+98066,both,0,0,Weber,1
+58024,demand,.5,1,Salt Lake,1
+58076,demand,0,0,Salt Lake,1
+58105,both,0,0,Salt Lake,1
+58244,supply,1,1,Salt Lake,1
+58325,both,0,0,Salt Lake,1
+58341,supply,1,1,Salt Lake,1
+58484,both,1,1,Salt Lake,0
+58547,supply,0,0,Salt Lake,1
+58568,both,.5,1,Salt Lake,1
+58599,supply,0,0,Salt Lake,0
+58704,demand,.5,1,Salt Lake,1
+58838,control,0,0,Salt Lake,1
+58926,control,0,0,Salt Lake,0
+58942,control,0,0,Salt Lake,1
+58988,supply,0,0,Salt Lake,0
+59036,both,.5,1,Salt Lake,1
+59058,both,0,0,Salt Lake,1
+59193,both,0,0,Salt Lake,0
+59234,both,0,0,Salt Lake,1
+59247,control,0,0,Salt Lake,1
+59268,both,1,1,Salt Lake,0
+59378,both,0,0,Salt Lake,1
+59402,demand,1,1,Salt Lake,1
+59500,both,0,0,Salt Lake,1
+59559,supply,0,0,Salt Lake,1
+59571,supply,0,0,Salt Lake,1
+59603,control,1,1,Salt Lake,1
+59690,control,1,1,Salt Lake,1
+59707,supply,.5,1,Salt Lake,0
+59748,supply,0,0,Salt Lake,1
+59776,demand,0,0,Salt Lake,1
+59782,both,0,0,Salt Lake,1
+59851,demand,.5,1,Salt Lake,1
+59898,demand,0,0,Salt Lake,1
+59954,control,0,0,Salt Lake,0
+60032,demand,0,0,Salt Lake,1
+92889,supply,0,0,Wayne,0
+27121,control,0,0,Garfield,1
+92929,both,1,1,Wayne,1
+91845,control,0,0,Washington,0
+27197,control,0,0,Garfield,1
+12034,control,0,0,Box Elder,0
+12047,supply,0,0,Box Elder,1
+12075,both,0,0,Box Elder,1
+12081,control,0,0,Box Elder,1
+12113,control,0,0,Box Elder,1
+12121,both,0,0,Box Elder,0
+12184,control,0,0,Box Elder,1
+86164,demand,0,0,Utah,1
+86172,supply,0,0,Utah,0
+86210,supply,0,0,Utah,1
+86275,both,1,1,Utah,0
+86281,supply,1,1,Utah,0
+86313,both,0,0,Utah,0
+86345,control,0,0,Utah,1
+86384,control,0,0,Utah,1
+86456,demand,0,0,Utah,1
+98084,supply,0,0,Weber,1
+75029,demand,0,0,Uintah,1
+75038,control,0,0,Uintah,1
+74767,demand,.33333334,1,Uintah,0
+74780,both,0,0,Uintah,1
+74854,demand,0,0,Uintah,1
+74968,supply,0,0,Uintah,1
+74975,demand,0,0,Uintah,1
+86642,both,0,0,Utah,1
+92033,demand,1,1,Washington,0
+98153,both,0,0,Weber,1
+98182,demand,0,0,Weber,1
+73989,both,0,0,Tooele,1
+92108,demand,.33333334,1,Washington,1
+92226,supply,.5,1,Washington,1
+92242,supply,0,0,Washington,1
+92290,demand,1,1,Washington,1
+92300,supply,.5,1,Washington,1
+92430,supply,.66666669,1,Washington,1
+92513,demand,0,0,Washington,1
+70816,control,1,1,Summit,1
+68831,supply,0,0,Sanpete,1
+70408,supply,.66666669,1,Summit,1
+98239,both,.5,1,Weber,0
+98241,both,1,1,Weber,0
+98256,supply,1,1,Weber,1
+98423,control,0,0,Weber,1
+24805,demand,0,0,Davis,1
+24833,supply,0,0,Davis,1
+24867,both,.33333334,1,Davis,1
+24898,demand,.5,1,Davis,1
+60124,both,.5,1,Salt Lake,1
+60273,both,0,0,Salt Lake,0
+98512,control,0,0,Weber,1
+60447,control,0,0,Salt Lake,1
+60452,control,0,0,Salt Lake,1
+98531,demand,1,1,Weber,1
+60475,supply,0,0,Salt Lake,1
+98622,supply,0,0,Weber,1
+98680,demand,0,0,Weber,1
+98729,supply,0,0,Weber,1
+98772,both,0,0,Weber,0
+98786,supply,.5,1,Weber,1
+14864,both,.5,1,Cache,0
+14942,supply,0,0,Cache,1
+15008,demand,.33333334,1,Cache,1
+15049,both,0,0,Cache,1
+74025,demand,0,0,Tooele,1
+86920,control,.66666669,1,Utah,0
+60583,demand,0,0,Salt Lake,0
+60651,demand,0,0,Salt Lake,1
+60738,control,.33333334,1,Salt Lake,0
+60835,control,0,0,Salt Lake,1
+98803,supply,.33333334,1,Weber,1
+98857,both,0,0,Weber,1
+98900,supply,.5,1,Weber,0
+98928,supply,0,0,Weber,0
+98944,supply,0,0,Weber,1
+98985,supply,0,0,Weber,0
+99055,both,1,1,Weber,0
+60861,demand,.5,1,Salt Lake,1
+60944,control,0,0,Salt Lake,1
+60985,demand,1,1,Salt Lake,0
+61217,control,0,0,Salt Lake,1
+61357,control,0,0,Salt Lake,1
+61374,both,0,0,Salt Lake,1
+61446,control,.5,1,Salt Lake,0
+61479,supply,0,0,Salt Lake,1
+61507,supply,.33333334,1,Salt Lake,0
+61576,control,0,0,Salt Lake,1
+61645,both,.5,1,Salt Lake,0
+61759,demand,0,0,Salt Lake,1
+61802,demand,.5,1,Salt Lake,1
+61841,both,0,0,Salt Lake,1
+61860,both,0,0,Salt Lake,0
+61887,control,0,0,Salt Lake,1
+61936,both,0,0,Salt Lake,0
+61962,demand,0,0,Salt Lake,1
+62040,supply,.5,1,Salt Lake,1
+62135,control,0,0,Salt Lake,1
+62157,supply,.33333334,1,Salt Lake,0
+62188,demand,0,0,Salt Lake,1
+62208,supply,0,0,Salt Lake,1
+62231,control,.5,1,Salt Lake,1
+62265,both,0,0,Salt Lake,1
+62306,demand,0,0,Salt Lake,0
+62352,demand,0,0,Salt Lake,1
+62399,demand,0,0,Salt Lake,1
+62427,control,0,0,Salt Lake,1
+62470,demand,1,1,Salt Lake,0
+62491,both,0,0,Salt Lake,1
+62502,both,0,0,Salt Lake,1
+62518,control,0,0,Salt Lake,1
+62539,demand,0,0,Salt Lake,0
+62560,both,0,0,Salt Lake,1
+62587,demand,1,1,Salt Lake,1
+62600,both,0,0,Salt Lake,1
+62659,both,.5,1,Salt Lake,1
+62922,control,0,0,Salt Lake,1
+62951,both,1,1,Salt Lake,1
+62979,control,0,0,Salt Lake,1
+63010,both,0,0,Salt Lake,1
+63109,demand,0,0,Salt Lake,1
+63113,demand,.5,1,Salt Lake,0
+63121,control,0,0,Salt Lake,0
+63178,control,0,0,Salt Lake,0
+63204,demand,0,0,Salt Lake,1
+63262,demand,0,0,Salt Lake,0
+63270,control,0,0,Salt Lake,1
+63329,demand,0,0,Salt Lake,1
+63355,supply,.5,1,Salt Lake,0
+63386,control,1,1,Salt Lake,0
+63408,both,1,1,Salt Lake,1
+63449,both,0,0,Salt Lake,1
+63454,supply,.5,1,Salt Lake,0
+63496,supply,1,1,Salt Lake,1
+63567,control,0,0,Salt Lake,1
+12236,both,0,0,Box Elder,0
+99212,supply,1,1,Weber,1
+99323,control,1,1,Weber,1
+24908,control,.33333334,1,Davis,1
+24920,demand,0,0,Davis,1
+24996,demand,0,0,Davis,1
+25026,control,.33333334,1,Davis,1
+25057,control,0,0,Davis,1
+25061,control,0,0,Davis,1
+25074,control,0,0,Davis,0
+74751,supply,1,1,Uintah,0
+63630,both,.5,1,Salt Lake,1
+63648,demand,0,0,Salt Lake,0
+63653,both,0,0,Salt Lake,1
+63761,demand,0,0,Salt Lake,1
+63828,both,0,0,Salt Lake,1
+63871,control,0,0,Salt Lake,1
+64173,supply,0,0,Salt Lake,1
+64211,control,0,0,Salt Lake,1
+64224,demand,1,1,Salt Lake,1
+64276,demand,0,0,Salt Lake,1
+64305,demand,0,0,Salt Lake,0
+64380,control,0,0,Salt Lake,1
+64403,both,.33333334,1,Salt Lake,0
+64572,control,0,0,Salt Lake,1
+64586,supply,0,0,Salt Lake,0
+64604,demand,0,0,Salt Lake,1
+64636,supply,0,0,Salt Lake,1
+64658,both,0,0,Salt Lake,1
+64712,demand,0,0,Salt Lake,1
+64731,demand,1,1,Salt Lake,0
+64749,control,0,0,Salt Lake,1
+64777,supply,0,0,Salt Lake,1
+64783,demand,0,0,Salt Lake,1
+64810,demand,0,0,Salt Lake,1
+64852,supply,0,0,Salt Lake,1
+64909,supply,1,1,Salt Lake,1
+64913,control,0,0,Salt Lake,1
+64984,both,0,0,Salt Lake,1
+64997,control,0,0,Salt Lake,0
+65004,control,0,0,Salt Lake,1
+65036,supply,0,0,Salt Lake,0
+65186,supply,1,1,Salt Lake,0
+65234,supply,1,1,Salt Lake,0
+65350,control,0,0,Salt Lake,1
+65425,demand,0,0,Salt Lake,1
+65528,supply,0,0,Salt Lake,1
+65559,supply,0,0,Salt Lake,1
+65592,demand,0,0,Salt Lake,0
+65657,control,0,0,Salt Lake,1
+65753,both,1,1,Salt Lake,0
+65782,demand,1,1,Salt Lake,1
+65795,control,0,0,Salt Lake,1
+65898,both,0,0,Salt Lake,1
+65977,both,.5,1,Salt Lake,1
+66019,supply,.33333334,1,Salt Lake,1
+66057,both,.5,1,Salt Lake,1
+66074,control,0,0,Salt Lake,1
+66088,supply,0,0,Salt Lake,1
+66137,supply,0,0,Salt Lake,0
+66171,supply,0,0,Salt Lake,1
+66214,supply,0,0,Salt Lake,0
+66251,supply,0,0,Salt Lake,1
+66308,demand,.5,1,Salt Lake,1
+66349,demand,1,1,Salt Lake,1
+66429,demand,0,0,Salt Lake,0
+66438,both,1,1,Salt Lake,0
+66472,supply,.5,1,Salt Lake,0
+66486,control,0,0,Salt Lake,1
+66504,supply,0,0,Salt Lake,1
+66558,supply,0,0,Salt Lake,1
+66589,supply,0,0,Salt Lake,1
+66591,both,0,0,Salt Lake,1
+66618,both,.5,1,Salt Lake,1
+25144,demand,0,0,Davis,1
+25159,control,.66666669,1,Davis,0
+25163,control,0,0,Davis,1
+25312,supply,0,0,Davis,1
+25354,both,.5,1,Davis,1
+25377,supply,0,0,Davis,1
